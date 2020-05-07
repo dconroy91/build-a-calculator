@@ -1,0 +1,32 @@
+.math-container {
+    display: flex;
+    background-color: rgb(37, 115, 189);
+    height: 10em;
+    width: 50%;
+    justify-content: center;
+
+}
+
+body {
+    
+    display:flex;
+    justify-content: center;
+}
+
+input {
+    height: 2em;
+    width: 7em;
+    margin: 2em;
+}
+
+button {
+    height: 2em;
+    width: 2em;
+    margin: 2em;
+}
+
+.dick {
+    font-size: 5em;
+    color: darkslateblue;
+    
+}
